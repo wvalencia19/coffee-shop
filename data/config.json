@@ -1,0 +1,39 @@
+{
+    "numBaristas": 5,
+    "grinders": [
+        {
+            "gramsPerSecond": 10
+        },
+        {
+            "gramsPerSecond": 20
+        },
+        {
+            "gramsPerSecond": 30
+        }
+    ],
+    "brewers": [
+        {
+            "ouncesWaterPerSecond": 100
+        },
+        {
+            "ouncesWaterPerSecond": 150
+        }
+    ],
+    "orders": [
+        {
+            "ouncesOfCoffeeWanted": 50
+        },
+        {
+            "ouncesOfCoffeeWanted": 20
+        },
+        {
+            "ouncesOfCoffeeWanted": 30
+        },
+        {
+            "ouncesOfCoffeeWanted": 15
+        },
+        {
+            "ouncesOfCoffeeWanted": 20
+        }
+    ]
+}
